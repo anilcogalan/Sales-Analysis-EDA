@@ -1,2 +1,2 @@
-# Sales-Analysis-EDA-
+# Sales-Analysis-EDA
 Sales Exploratory Data Analysis 
